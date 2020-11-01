@@ -10,7 +10,7 @@ Directions about the project:
 Step 1: Open visual studio 
 Step 2: Create a console application
 Step:3 Go to tools - nuget package manager and install selenium webdriver 
-Step 4: Download chromedriver.exe and save it somewhere in your local storage ; C://users/haymanot/downloads/compressed in my case 
+Step 4: Download chromedriver.exe and save it somewhere in your local storage ; C://users/yidne/downloads/compressed in my case 
 Step 5: Specify the downloaded driver on the code 
 Step 6: Specify the given website (the Akamai website in this case) 
 Step 7: Access the textbox (for the job title) and the location combobox by using their ID and Xpath by right click and inspect on the chrome browser)
